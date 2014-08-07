@@ -4,7 +4,7 @@ public class Example1 extends Exe{
 		
 		int show(int x, int y, int z)
 		{
-			System.out.println("abc");
+			System.out.println("abc123");
 			return 0;
 		}
 	
